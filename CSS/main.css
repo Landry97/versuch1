@@ -7,7 +7,7 @@ header {width: 100%; height: 5rem; display: flex; align-content: center;}
 .header-title {width: 100%; font-size: 4.5rem;}
 
 
-footer {margin-top:auto; width: 100%; height: 5rem; display: flex;justify-content: space-between;padding-left:3rem;padding-right:3rem;}
+footer {margin-top:auto; width: 100%; height: 5rem; display: flex;justify-content: space-between;}
 footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
 .menu {height: auto; width: 100%;}
 .menu-item-1 {background: lightgreen;}
@@ -41,6 +41,7 @@ padding-right:3rem;}
      .menu-item-a {font-size: 4rem;}
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
       .header-title {padding-left: 1rem; padding-top: 1rem;}
+       .footer {padding-left:1rem;padding-right:1rem;}
     }
  @media (min-width: 750px){
      
@@ -49,6 +50,7 @@ padding-right:3rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 6.25rem;}
      .menu-item-a {font-size: 6rem;}
       .header-title {padding-left: 1rem; padding-top: 1rem;}
+       .footer {padding-left:1rem;padding-right:1rem;}
     }
   @media (min-width: 900px){
      .header-title {font-size: 6rem;}
@@ -56,10 +58,13 @@ padding-right:3rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 7.25rem;}
     .menu-item-a {font-size: 7rem;}
      .header-title {padding-left: 2rem;padding-top: 1rem;}
+     .footer {padding-left:2rem;padding-right:2rem;}
+      
     }
  @media (min-width: 1100px){
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 26vh;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 26vh;}
      .menu-item-a {font-size: 26vh;}
      .header-title {padding-left: 3rem;}
+     .footer {padding-left:3rem;padding-right:3rem;}
     }
