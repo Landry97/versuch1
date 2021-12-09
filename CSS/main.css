@@ -35,16 +35,20 @@ padding-right:3rem;}
     #top-btn{margin-left: auto; margin-right: 6%;}
     }
  @media (min-width: 300px){
+     .header-title {font-size: 3rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 4rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 4.15rem;}
      .menu-item-a {font-size: 4rem;}
     }
  @media (min-width: 750px){
+     
+     .header-title {font-size: 5rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 6rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 6.25rem;}
      .menu-item-a {font-size: 6rem;}
     }
   @media (min-width: 900px){
+     .header-title {font-size: 6rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 7rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 7.25rem;}
     .menu-item-a {font-size: 7rem;}
