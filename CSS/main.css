@@ -35,14 +35,14 @@ padding-right:3rem;}
     #top-btn{margin-left: auto; margin-right: 6%;}
     }
  @media (min-width: 300px){
-    .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 3rem;}
-    .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 3.25rem;}
-     .menu-item-a {font-size: 3rem;}
-    }
- @media (min-width: 750px){
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 5rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 5.25rem;}
-     .menu-item-a {font-size: 3rem;}
+     .menu-item-a {font-size: 5rem;}
+    }
+ @media (min-width: 750px){
+    .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 6rem;}
+    .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 6.25rem;}
+     .menu-item-a {font-size: 6rem;}
     }
   @media (min-width: 900px){
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 7rem;}
