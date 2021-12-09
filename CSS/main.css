@@ -27,7 +27,7 @@ padding-right:3rem;}
 @media (max-width: 900px){
     footer{flex-wrap: nowrap; flex-direction: column;justify-content: space-between;}
 @media (min-width: 900px){
-    footer{flex-wrap: wrap; flex-direction: column;}
+    footer{flex-wrap: wrap; flex-direction: column;justify-content: space-between;}
     .instagram{margin-left: 0;}
     .datenschutz{margin-left: 0;}
     .sponsoren{margin-left: 0;}
