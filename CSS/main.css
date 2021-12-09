@@ -39,6 +39,7 @@ padding-right:3rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 4rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 4.15rem;}
      .menu-item-a {font-size: 4rem;}
+     .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
     }
  @media (min-width: 750px){
      
