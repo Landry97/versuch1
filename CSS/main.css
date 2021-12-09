@@ -66,12 +66,11 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
      .header-title {padding-left: 2rem;padding-top: 1rem;}
      .footer {padding-left:2rem;padding-right:2rem;}
      .menu-item-a {padding-right:2rem;}
-      
     }
- @media (max-width: 1100px){
-     .menu-item-1, .menu-item-2,.menu-item-3 {height: 27vh;}
-    .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 26vh;}
-    .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 26vh;}
+ @media (min-width: 1100px){
+     .menu-item-1, .menu-item-2, .menu-item-3{height: 27vh;}
+    .menu-item-1:hover, .menu-item-2:hover, .menu-item-3:hover {font-size: 26vh;}
+    .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover {font-size: 26vh;}
      .menu-item-a {font-size: 26vh;}
      .header-title {padding-left: 3rem;}
      .footer {padding-left:3rem;padding-right:3rem;}
