@@ -2,7 +2,7 @@ html{-webkit-tap-highlight-color: transparent;}*{margin: 0%;padding: 0%;box-sizi
 body{width: 100%;height: auto;background: black;color: white;display: flex;flex-direction: column;font-family: BBBouquet-Regular,Futura,Trebuchet MS,Arial,sans-serif;font-size: 1rem;}
 footer, header{font-family: Trebuchet MS;}main ul li a{font-family: BBBouquet-Regular,Futura,Trebuchet MS,Arial,sans-serif;font-size: 1rem;letter-spacing: .15rem;}
 a, p, h {color: white; text-decoration: none;}
-header {width: 100%; height: 5rem; display: flex; align-content: center;}
+header {width: 100%; height: 5rem; display: flex; align-items: center;}
 
 .header-title {width: 100%;}
 
