@@ -24,9 +24,9 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
 padding-right:3rem;}
 
 .top-btn {display: none;}
-@media (min-width: 900px){
-    footer{flex-wrap: nowrap; flex-direction: column;justify-content: space-between;}
 @media (max-width: 900px){
+    footer{flex-wrap: nowrap; flex-direction: column;justify-content: space-between;}
+@media (min-width: 900px){
     footer{flex-wrap: wrap; flex-direction: column;}
     .instagram{margin-left: 0;}
     .datenschutz{margin-left: 0;}
