@@ -36,7 +36,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
  @media (min-width: 300px){
      
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
-     .header-title {font-size: 2rem;}
+     .header-title {font-size: 3rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 4rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 4.15rem;}
      .menu-item-a {font-size: 3rem;}
@@ -59,7 +59,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
   @media (min-width: 900px){
       
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 8rem;}
-     .header-title {font-size: 3.5rem;}
+     .header-title {font-size: 4.5rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 7rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 7.25rem;}
     .menu-item-a {font-size: 5rem;}
