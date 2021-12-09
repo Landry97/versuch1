@@ -41,7 +41,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 4.15rem;}
      .menu-item-a {font-size: 3rem;}
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
-      .header-title {padding-left: 1rem; padding-top: 1rem;}
+      .header-title {padding-left: 1rem;}
        .footer {padding-left:1rem;padding-right:1rem;}
      .menu-item-a {padding-right:1rem;}
     }
@@ -52,7 +52,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 6rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 6.25rem;}
      .menu-item-a {font-size: 4rem;}
-      .header-title {padding-left: 1rem; padding-top: 1rem;}
+      .header-title {padding-left: 1rem;}
        .footer {padding-left:1rem;padding-right:1rem;}
      .menu-item-a {padding-right:1rem;}
     }
@@ -63,7 +63,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
     .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {font-size: 7rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 7.25rem;}
     .menu-item-a {font-size: 5rem;}
-     .header-title {padding-left: 2rem;padding-top: 1rem;}
+     .header-title {padding-left: 2rem;}
      .footer {padding-left:2rem;padding-right:2rem;}
      .menu-item-a {padding-right:2rem;}
     }
