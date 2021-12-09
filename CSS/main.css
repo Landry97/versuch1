@@ -24,12 +24,14 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
 padding-right:3rem;}
 
 .top-btn {display: none;}
+
 @media (max-width: 900px){
-    footer {flex-wrap: wrap; flex-direction: column;}
+    footer{flex-wrap: wrap; flex-direction: column;}
     .instagram{margin-left: 0;}
     .datenschutz{margin-left: 0;}
     .sponsoren{margin-left: 0;}
     .team{margin-left: 0;}
     .impressum{margin-left: 0;}
-    #top-btn{margin-left: auto; margin-right: 6%;
-    }}
+    #top-btn{margin-left: auto; margin-right: 6%;}
+    }
+@media (max-width: 750px){}
