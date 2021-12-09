@@ -9,4 +9,4 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
 .menu-item-1 {background: green;}
 .menu-item-2 {background: orange;}
 .menu-item-3 {background: blue;}
-.menu-item-1, .menu-item-2,.menu-item-3 {height: 27vh; width 100%; font-size: 25vh; text-align-last: right;padding-right:1.5rem}
+.menu-item-1, .menu-item-2,.menu-item-3 {height: 27vh; width 100%; font-size: 25vh; text-align-last: right;padding-right:1.5rem; text-decoration: none; list-style-type: none;}
