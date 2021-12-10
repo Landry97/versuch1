@@ -95,5 +95,5 @@ list-type: none;
     .sponsoren,
     .team,
     .impressum,
-    #top-btn {display:flex; text-align: center;}
+    #top-btn {align-self: center;}
     
