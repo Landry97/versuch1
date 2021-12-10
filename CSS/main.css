@@ -111,10 +111,10 @@ list-type: none;
     flex: 1;
     background: back;
     color:white;
-    padding: 1rem;}
+    padding-right: 1rem;}
     
 .internalcontainerB {
     flex: 2;
     background: back;
     color:white;
-    padding: 1rem;}
+    padding-right: 1rem;}
