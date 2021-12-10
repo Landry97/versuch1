@@ -15,16 +15,7 @@ p.INFGLLRY{display: none;height: 10px;position: absolute;width: 10px;cursor: poi
 a.infogallery{color: rgb(219, 10, 10);}
 p.infogallery.show{color: black;}
 a.infogallery:hover{color: black;}
-.row{    
-    align-self: center;
-    --gap: 1.5rem;
-    --row-height: auto;
-    box-sizing: border-box;
-    padding: var(--gap);
-    display: grid;
-    grid-template-columns: repeat(var(--num-cols),1fr);
-    grid-auto-rows: var(--row-height);
-    gap: var(--gap); align-items: center;justify-content: center;flex-direction: row;flex-wrap: wrap;align-content: center;width: 90%;height: auto;}
+.row{ align-items: center;justify-content: center;flex-direction: row;flex-wrap: wrap;align-content: center;width: 90%;height: auto;}
 .col {flex-wrap: wrap;display: flex;align-items: center;justify-content: center;cursor: pointer;margin-top: 1rem;margin-bottom: 1rem;margin-left: .5rem;margin-right: .5rem;}
 .col picture img{width: 100%;height: 100%;max-width: 100%;object-fit: contain;}
 .madeby{display: flex;width: auto;align-items: center;text-align: center;justify-content: center;}
@@ -111,3 +102,23 @@ img.hover-shadow{transition: 0.3s;}
 .previous{left: 0;padding: 35vh 44vw 35vh 1rem;}
 .next{right: 0;padding: 35vh 1rem 35vh 44vw;}
 #close-pointer:hover{color: rgb(219, 10, 10);}
+
+
+@media (min-width: 300px){
+    .row{ 
+        --num-cols: 1; 
+        width: 90vw;
+        align-self: center;
+        --gap: 1.5rem; 
+        --row-height: auto;        
+        box-sizing: border-box; 
+        padding: var(--gap); 
+        display: grid; 
+        grid-template-columns: repeat(var(--num-cols),1fr); 
+        grid-auto-rows: var(--row-height); gap: var(--gap); } 
+   picture{width: 100%;height: 100%;object-fit: cover; margin:0;}}
+
+
+@media (min-width: 1300px){
+    .project-list-index{ 
+        --num-cols: 2;}}
