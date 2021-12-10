@@ -56,6 +56,9 @@ list-type: none;
     cursor: pointer;
 }
 
+
+     #footer-big {display:none;}
+
 @media (max-width: 900px){
     footer{flex-wrap: nowrap; flex-direction: column;}
     .wrapper-impressum, .wrapper-team {flex-direction: column;}
@@ -106,6 +109,8 @@ list-type: none;
      .header-title {padding-left: 3rem; font-size: 3.5rem;}
      .wrapper-impressum, .wrapper-team {margin-left: 3rem;}
      .menu-item-a {padding-right:3rem;}
+     #footer-big {display:flex; font-weight:900;}
+     #footer-normal {display:none;}
     }
 .wrapper-impressum {margin-top: 2rem;margin-bottom: 2rem;align-content:center;display: flex;}
 .wrapper-team {margin-top: 2rem;margin-bottom: 2rem;align-content:center;display: flex;}
