@@ -100,15 +100,17 @@ list-type: none;
      .header-title {padding-left: 3rem; font-size: 4.5rem;}
      .menu-item-a {padding-right:3rem;}
     }
-.wrapper-impressum {width: 80%; align-content:center;}
+.wrapper-impressum {width: 80%; align-content:center;display: flex;}
 .internalcontainerA {
     flex: 1;
-    background: white;
+    background: back;
+    color:white;
     margin: .5rem;
     padding: 1rem;}
     
 .internalcontainerB {
-    flex: 3;
-    background: white;
+    flex: 2;
+    background: back;
+    color:white;
     margin: .5rem;
     padding: 1rem;}
