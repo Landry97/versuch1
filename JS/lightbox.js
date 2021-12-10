@@ -11,7 +11,6 @@ function openLightbox() {
   document.getElementById('info').style.display = 'none';
   document.getElementById('madebyid').style.display = 'none';
   document.getElementsByTagName("Footer")[0].style.display = "none";
-  document.getElementById('menu-toggle').style.display = 'none';
   x.removeListener(scale);
 var dots = window.matchMedia( "(min-width: 350px)" );
 if (dots.matches) {
