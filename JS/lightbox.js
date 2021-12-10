@@ -1,7 +1,6 @@
 let slideIndex = 1;
 
 function openLightbox() { 
-  document.getElementById('titleid').style.padding = '1rem';
   document.getElementById('headerid').style.position = 'fixed';
   document.getElementById('headerid').style.height = '5rem';
   document.getElementById('headerid').style.width = '85vw';
@@ -26,8 +25,6 @@ else {
 }
 };
 function closeLightbox() {
-  
-  document.getElementById('titleid').style.padding = '';
   document.getElementById('headerid').style.position = '';
   document.getElementById('headerid').style.height = '';
   document.getElementById('headerid').style.width = '';
