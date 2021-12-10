@@ -70,7 +70,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
     }
  @media (min-width: 1100px){
      .menu-item-1, .menu-item-2, .menu-item-3{height: 27vh;}
-    .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover {font-size: 22vh;}
+    .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover {font-size: 20.5vh;}
      .menu-item-a {font-size: 20vh;}
      .header-title {padding-left: 3rem; font-size: 4.5rem}
      .footer {padding-left:3rem;padding-right:3rem;}
