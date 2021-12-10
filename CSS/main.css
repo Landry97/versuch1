@@ -72,7 +72,7 @@ list-type: none;
     }
  @media (min-width: 300px){
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
-     .header-title {font-size: 2rem;}
+     .header-title {font-size: 1.5rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover {font-size: 3.25rem;}
      .menu-item-a {font-size: 3rem;}
      .menu-item-1, .menu-item-2, .menu-item-3 {height: 5rem;}
@@ -83,7 +83,7 @@ list-type: none;
  @media (min-width: 750px){
      
      .menu-item-1, .menu-item-2, .menu-item-3 {height: 7rem;}
-     .header-title {font-size: 2.5rem;}
+     .header-title {font-size: 2rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover {font-size: 4.25rem;}
      .menu-item-a {font-size: 4rem;}
       .header-title {padding-left: 1rem;}
@@ -92,7 +92,7 @@ list-type: none;
     }
   @media (min-width: 900px){
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 8rem;}
-     .header-title {font-size: 3rem;}
+     .header-title {font-size: 2.5rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover,.menu-item-3 a:hover {font-size: 5.25rem;}
     .menu-item-a {font-size: 5rem;}
      .header-title {padding-left: 2rem;}
@@ -103,7 +103,7 @@ list-type: none;
      .menu-item-1, .menu-item-2, .menu-item-3{height: 27vh;}
      .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover{font-size: 19.5vh;}
      .menu-item-a {font-size: 19.25vh;}
-     .header-title {padding-left: 3rem; font-size: 4rem;}
+     .header-title {padding-left: 3rem; font-size: 3.5rem;}
      .wrapper-impressum, .wrapper-team {margin-left: 3rem;}
      .menu-item-a {padding-right:3rem;}
     }
