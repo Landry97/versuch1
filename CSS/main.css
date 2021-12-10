@@ -42,7 +42,7 @@ list-type: none;
     align-content: space-around;
     align-items: center;
     cursor: pointer;
-}}
+}
 
 @media (max-width: 900px){
     footer{flex-wrap: nowrap; flex-direction: column;}
