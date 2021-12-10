@@ -111,12 +111,10 @@ list-type: none;
     flex: 1;
     background: back;
     color:white;
-    margin: .5rem;
     padding: 1rem;}
     
 .internalcontainerB {
     flex: 2;
     background: back;
     color:white;
-    margin: .5rem;
     padding: 1rem;}
