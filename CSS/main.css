@@ -19,7 +19,11 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
 .menu-item-a {
     width: 100%;
     position: absolute;
-    left: 0;}
+    left: 0;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 
 .top-btn {display: none;}
 @media (max-width: 900px){
