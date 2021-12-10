@@ -30,12 +30,12 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
     footer{flex-wrap: nowrap; flex-direction: column;}}
 @media (min-width: 900px){
     footer{flex-wrap: wrap; flex-direction: column;}
-    .instagram{margin-left: 0;width: object-fit;}
-    .datenschutz{margin-left: 0;width: object-fit;}
-    .sponsoren{margin-left: 0;width: object-fit;}
-    .team{margin-left: 0;width: object-fit;}
-    .impressum{margin-left: 0;width: object-fit;}
-    #top-btn{margin-left: auto; margin-right: 6%;width: object-fit;}
+    .instagram{margin-left: 0;}
+    .datenschutz{margin-left: 0;}
+    .sponsoren{margin-left: 0;}
+    .team{margin-left: 0;}
+    .impressum{margin-left: 0;}
+    #top-btn{margin-left: auto; margin-right: 6%;}
     }
  @media (min-width: 300px){
      
