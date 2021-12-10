@@ -52,12 +52,6 @@ list-type: none;
 }
 @media (min-width: 900px){
     footer{flex-wrap: wrap; flex-direction: column;}
-    .instagram{margin-left: 0;}
-    .datenschutz{margin-left: 0;}
-    .sponsoren{margin-left: 0;}
-    .team{margin-left: 0;}
-    .impressum{margin-left: 0;}
-    #top-btn{margin-left: auto; margin-right: 6%;}
     }
  @media (min-width: 300px){
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
