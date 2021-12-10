@@ -57,7 +57,7 @@ p.textag:hover{
     /* z-index: -10; */
     position: fixed;
     left: 0;
-    top: 4rem;
+    top: 6rem;
     padding: 0 44vw 60vh 1rem;
     text-decoration: none;
 }
@@ -67,7 +67,7 @@ padding: .5rem 0 .5rem 0;
 .nex {
     position: fixed;
     right: 0;
-    top: 4rem;
+    top: 6rem;
  padding: 0 1rem 60vh 44vw;
     text-decoration: none;
 }
@@ -75,7 +75,7 @@ padding: .5rem 0 .5rem 0;
     display: none;
     position: fixed;
     right: 0;
-    top: 4rem;
+    top: 6rem;
  padding: 0 0rem 60vh 44vw;
  text-decoration: none;
 }
