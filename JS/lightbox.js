@@ -4,6 +4,7 @@ function openLightbox() {
   document.getElementById('headerid').style.position = 'fixed';
   document.getElementById('headerid').style.height = '5rem';
   document.getElementById('headerid').style.width = '75vw';
+  document.getElementById('headerid').style.left = '0';
   document.getElementById('headerid').style.top = '0';
   document.getElementById('headerid').style.zIndex = '100001';
   
