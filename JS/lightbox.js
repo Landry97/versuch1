@@ -5,6 +5,7 @@ function openLightbox() {
   document.getElementById('headerid').style.height = '5rem';
   document.getElementById('headerid').style.top = '0';
   document.getElementById('headerid').style.zIndex = '100001';
+  document.getElementById('close-pointer').style.zIndex = '100002';
   document.getElementsByTagName('body')[0].style.overflow ="hidden";
   document.getElementById('Lightbox').style.display = 'flex';
   document.getElementById('rowid').style.display = 'none';
