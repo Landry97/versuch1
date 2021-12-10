@@ -56,10 +56,10 @@ list-type: none;
 
 @media (max-width: 900px){
     footer{flex-wrap: nowrap; flex-direction: column;}
-    .wrapper-impressum {flex-direction: column;}
+    .wrapper-impressum, .wrapper-team {flex-direction: column;}
 }
 @media (min-width: 900px){
-    .wrapper-impressum {flex-direction: row;}
+    .wrapper-impressum, .wrapper-team {flex-direction: row;}
     footer{flex-wrap: wrap; flex-direction: column; max-height: 5rem;}
 .instagram,
     .datenschutz,
