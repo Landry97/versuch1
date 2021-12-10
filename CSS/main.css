@@ -103,7 +103,7 @@ list-type: none;
      .menu-item-1, .menu-item-2, .menu-item-3{height: 27vh;}
      .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover{font-size: 19.5vh;}
      .menu-item-a {font-size: 19.25vh;}
-     .header-title {padding-left: 3rem; font-size: 4.5rem;}
+     .header-title {padding-left: 3rem; font-size: 4rem;}
      .wrapper-impressum, .wrapper-team {margin-left: 3rem;}
      .menu-item-a {padding-right:3rem;}
     }
