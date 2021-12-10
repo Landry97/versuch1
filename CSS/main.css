@@ -30,7 +30,9 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
 background:black;
 color: white;
 font-weight: bold;
-align-self: flexend;}
+align-self: flexend;
+text-decoration: none;
+list-type-style: none;}
 
 @media (max-width: 900px){
     footer{flex-wrap: nowrap; flex-direction: column;}
