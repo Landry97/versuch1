@@ -102,7 +102,7 @@ list-type: none;
      .header-title {padding-left: 3rem; font-size: 4.5rem;}
      .menu-item-a {padding-right:3rem;}
     }
-.wrapper-impressum {margin-top: 5rem; width: 80%; align-content:center;display: flex;}
+.wrapper-impressum {margin-top: 2rem; width: 80%; align-content:center;display: flex;}
 .internalcontainerA {
     flex: 1;
     background: back;
