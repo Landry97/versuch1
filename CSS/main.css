@@ -90,3 +90,10 @@ list-type: none;
      footer {padding-left: 2rem; padding-right:3rem;}
      .menu-item-a {padding-right:3rem;}
     }
+.instagram,
+    .datenschutz,
+    .sponsoren,
+    .team,
+    .impressum,
+    #top-btn {display:flex; text-align: center;}
+    
