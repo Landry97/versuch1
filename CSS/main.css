@@ -59,7 +59,7 @@ list-type: none;
     footer{flex-wrap: nowrap; flex-direction: column;}
 }
 @media (min-width: 900px){
-    footer{flex-wrap: wrap; flex-direction: column;}
+    footer{flex-wrap: wrap; flex-direction: column; max-height: 5rem;}
 .instagram,
     .datenschutz,
     .sponsoren,
