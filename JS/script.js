@@ -3,7 +3,7 @@ mybutton = document.getElementById("top-btn");
 // [When the user scrolls down 20px from the top of the document, show the button]
 window.onscroll = function() {scrollFunction()};
 function scrollFunction() {
-     if (document.body.scrollTop > 15 || document.documentElement.scrollTop > 15) {
+     if (document.body.scrollTop > 35 || document.documentElement.scrollTop > 35) {
        mybutton.style.display = "flex";} 
        else {
        mybutton.style.display = "none";}
