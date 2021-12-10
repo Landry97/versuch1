@@ -59,11 +59,11 @@ list-type: none;
 
      #footer-big {display:none;}
 
-@media (max-width: 1000px){
+@media (max-width: 1050px){
     footer{flex-wrap: nowrap; flex-direction: column;}
     .wrapper-impressum, .wrapper-team {flex-direction: column;}
 }
-@media (min-width: 1000px){
+@media (min-width: 1050px){
     
      #footer-big {display:flex; font-weight:900;}
      #footer-normal {display:none;}
