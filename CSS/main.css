@@ -145,4 +145,4 @@ list-type: none;
 .internalcontainerL2{flex: 1;background: black;margin: .5rem;padding: 1rem;}
 .internalcontainerR2{flex: 1;background: black;margin: .5rem;padding: 1rem;}
 
-#inlineheadline {display:inline;}
+#inlineheadline {display:inline; font-weight: lighter;}
