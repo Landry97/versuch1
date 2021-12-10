@@ -52,6 +52,12 @@ list-type: none;
 }
 @media (min-width: 900px){
     footer{flex-wrap: wrap; flex-direction: column;}
+.instagram,
+    .datenschutz,
+    .sponsoren,
+    .team,
+    .impressum,
+    #top-btn {align-self: center;}
     }
  @media (min-width: 300px){
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
@@ -90,10 +96,3 @@ list-type: none;
      footer {padding-left: 2rem; padding-right:3rem;}
      .menu-item-a {padding-right:3rem;}
     }
-.instagram,
-    .datenschutz,
-    .sponsoren,
-    .team,
-    .impressum,
-    #top-btn {align-self: center;}
-    
