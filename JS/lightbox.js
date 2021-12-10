@@ -20,7 +20,6 @@ else {
 }
 };
 function closeLightbox() {
-  x.addListener(scale);
   document.getElementById('headerid').style.position = '';
   document.getElementById('headerid').style.height = '';
   document.getElementById('headerid').style.top = '0';
