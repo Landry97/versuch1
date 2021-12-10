@@ -42,7 +42,7 @@ footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
     }
  @media (min-width: 300px){
      .menu-item-1, .menu-item-2,.menu-item-3 {height: 5rem;}
-     .header-title {font-size: 3rem;}
+     .header-title {font-size: 2rem;}
     .menu-item-1 a:hover, .menu-item-2 a:hover, .menu-item-3 a:hover {font-size: 3.25rem;}
      .menu-item-a {font-size: 3rem;}
      .menu-item-1, .menu-item-2, .menu-item-3 {height: 5rem;}
