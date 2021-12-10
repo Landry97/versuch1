@@ -7,11 +7,9 @@ function openLightbox() {
   document.getElementById('headerid').style.left = '0';
   document.getElementById('headerid').style.top = '0';
   document.getElementById('headerid').style.zIndex = '100001';
-  
   document.getElementById('close-pointer').style.position = 'fixed';
   document.getElementById('close-pointer').style.height = '5rem';
   document.getElementById('close-pointer').style.align = 'center';
-  document.getElementById('close-pointer').style.zIndex = '100002';
   document.getElementsByTagName('body')[0].style.overflow ="hidden";
   document.getElementById('Lightbox').style.display = 'flex';
   document.getElementById('rowid').style.display = 'none';
@@ -29,6 +27,7 @@ else {
 function closeLightbox() {
   document.getElementById('headerid').style.position = '';
   document.getElementById('headerid').style.height = '';
+  document.getElementById('headerid').style.width = '';
   document.getElementById('headerid').style.top = '0';
   document.getElementById('headerid').style.zIndex = '';
   document.getElementsByTagName('body')[0].style.overflow ="";
