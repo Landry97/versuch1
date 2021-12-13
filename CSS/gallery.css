@@ -129,17 +129,14 @@ img.hover-shadow{transition: 0.3s;}
 .row {
   display: grid;
   grid-gap: 1rem;
-    
 }
 
 .row div {
   grid-column: span 3;
   height: 100%;
-    --num-cols: 3;
 }
 
-.row div:nth-child(n + 1) {
+.row div:nth-child(n + 2) {
   grid-column: span 4;
-    --num-cols: 4;
 }
 
