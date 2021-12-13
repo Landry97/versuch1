@@ -123,7 +123,8 @@ img.hover-shadow{transition: 0.3s;}
 
 
 @media (min-width: 1300px){
-    .row{ --num-cols: 3;}
+    .row{ --num-cols: 3; align-items: flexstart;}
+    
 }
 
 
