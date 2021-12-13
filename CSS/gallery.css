@@ -133,12 +133,12 @@ img.hover-shadow{transition: 0.3s;}
 }
 
 .row div {
-  grid-column: span 4;
+  grid-column: span 3;
   height: 100%;
   background: red;
 }
 
-.row div:nth-child(n + 4) {
-  grid-column: span 1;
+.row div:nth-child(n + 2) {
+  grid-column: span 4;
 }
 
