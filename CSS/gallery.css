@@ -124,11 +124,6 @@ img.hover-shadow{transition: 0.3s;}
 
 @media (min-width: 1300px){
     .row{ --num-cols: 3;}
-.row div:nth-child(n + 1) {grid-column: span 2;
-    height:50%;}
-  .row div:first-child {
-  grid-column: 1 / 3;
-}
 }
 
 
