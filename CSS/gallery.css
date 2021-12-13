@@ -128,17 +128,18 @@ img.hover-shadow{transition: 0.3s;}
 
 .row {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
   grid-gap: 1rem;
+    
 }
 
 .row div {
   grid-column: span 3;
   height: 100%;
-  background: red;
+    --num-cols: 3;
 }
 
-.row div:nth-child(n + 2) {
+.row div:nth-child(n + 1) {
   grid-column: span 4;
+    --num-cols: 4;
 }
 
