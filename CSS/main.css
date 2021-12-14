@@ -8,7 +8,8 @@ a, p, h {color: white; text-decoration: none;}
 header {width: 100%; height: 5rem; display: flex; align-items: center;}
 
 .header-title {width: 100%;align-self:center;}#headerindex{font-weight:bold;}
-
+#nav-ul {
+letter-spacing: 0.25rem}
 
 footer { margin-top: auto;
     padding-bottom: 1rem;padding-top: 1rem;
