@@ -70,9 +70,7 @@ list-type: none;
     .wrapper-impressum, .wrapper-team {flex-direction: row;}
     footer{flex-wrap: wrap; flex-direction: column; max-height: 5rem;}
     .top-btn {
-        height: 5rem;
-        align-content: center;
-        bottom: 0;}
+        bottom: 2.75rem;}
 .instagram,
     .datenschutz,
     .sponsoren,
