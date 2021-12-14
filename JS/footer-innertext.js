@@ -12,6 +12,6 @@ document.getElementById("daten-id").innerHTML = 'Datenschutzerklärung';
 document.getElementById("team-id").innerHTML = 'Team';
 document.getElementById("instagram-id").innerHTML = 'Instagram';
   }};
-var windowsize = window.matchMedia("(max-width: 950px)")
+var windowsize = window.matchMedia("(min-width: 1150px)")
 scale(windowsize) // Call listener function at run time
 windowsize.addListener(scale) // Attach listener function on state changes 
