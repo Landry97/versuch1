@@ -67,6 +67,8 @@ list-type: none;
 }
 @media (min-width: 1050px){
     body{min-height: 100vh;}
+    #nav-ul {
+letter-spacing: 15%;}
 
     .wrapper-impressum, .wrapper-team {flex-direction: row;}
     footer{flex-wrap: wrap; flex-direction: column; max-height: 5rem;}
