@@ -6,3 +6,5 @@ document.getElementById("daten-id").innerHTML = "DATENSCHUTZERKLÄRUNG";
 document.getElementById("team-id").innerHTML = "TEAM";
 document.getElementById("instagram-id").innerHTML = "INSTAGRAM";
 };
+scale(windowsize) // Call listener function at run time
+windowsize.addListener(scale) // Attach listener function on state changes
