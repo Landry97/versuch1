@@ -10,7 +10,7 @@ header {width: 100%; height: 5rem; display: flex; align-items: center;}
 .header-title {width: 100%;align-self:center;}#headerindex{font-weight:bold;}
 
 
-footer {    margin-top: auto;
+footer {
     padding-bottom: 1rem;padding-top: 1rem;
     width: 100%;
     height: 100%;
