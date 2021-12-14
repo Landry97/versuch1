@@ -8,11 +8,11 @@ document.getElementById("instagram-id").innerHTML = "INSTAGRAM";
 }
 else{
   
-document.getElementById("impressum-id").innerHTML = '';
-document.getElementById("sponsoren-id").innerHTML = '';
-document.getElementById("daten-id").innerHTML = '';
-document.getElementById("team-id").innerHTML = '';
-document.getElementById("instagram-id").innerHTML = '';
+document.getElementById("impressum-id").innerHTML = 'Impressum';
+document.getElementById("sponsoren-id").innerHTML = 'Sponsoren';
+document.getElementById("daten-id").innerHTML = 'Datenschutzerklärung';
+document.getElementById("team-id").innerHTML = 'Team';
+document.getElementById("instagram-id").innerHTML = 'Instagram';
 };
 scale(windowsize) // Call listener function at run time
 windowsize.addListener(scale) // Attach listener function on state changes
