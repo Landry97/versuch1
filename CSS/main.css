@@ -18,7 +18,7 @@ footer {    margin-top: auto;
     justify-content: space-between;
     min-height: 5rem;
 }
-footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: 1rem;}
+footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: .75rem;}
 .menu {height: auto; width: 100%;}
 .menu-item-1 {background: lightgreen;}
 .menu-item-2 {background: orange;}
