@@ -17,8 +17,8 @@ align-items: center;}
 }
 
 .first-section{
-padding-top: 10rem;padding-bottom: 10rem;padding-right: 5rem;padding-left: 5rem;}
-p.info-ausstellung{padding:0;text-align: justify; }
+padding-top: 10rem;padding-bottom: 10rem;width: 100%;display:flex; align-items:center;align-content:center;}
+p.info-ausstellung{padding:0;text-align: justify; width: 80vw;}
 
 
 footer { margin-top: auto;
