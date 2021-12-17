@@ -1,4 +1,14 @@
-
+p.fatuk{
+    text-decoration: none;
+    list-style-type: none;
+    background: url("Fatuk_Weiß.png") no-repeat;
+        background-color: rgba(0, 0, 0, 0);
+        background-size: auto;
+    background-size: 100%;
+    background-color: transparent;
+    height: 2rem;
+    width: 2rem;
+}
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 html{-webkit-tap-highlight-color: transparent;}*{margin: 0%;padding: 0%;box-sizing: border-box;}
