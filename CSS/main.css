@@ -16,7 +16,9 @@ align-items: center;}
     align-content: space-evenly;
 }
 
-
+.first-section{
+padding: 1rem;}
+p.info-ausstellung{padding:0;}
 
 
 footer { margin-top: auto;
