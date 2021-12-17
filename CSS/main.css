@@ -64,6 +64,7 @@ list-type: none;
     align-content: space-around;
     align-items: center;
     cursor: pointer;
+    background-clip: padding-box;
 }
 
 
