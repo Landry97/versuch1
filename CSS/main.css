@@ -31,8 +31,8 @@ footer { margin-top: auto;
 }
 footer a, footer p {font-size: 1rem;letter-spacing: .15rem; padding: .75rem;}
 .menu {height: auto; width: 100%;}
-.menu-item-1 {background: lightgreen;}
-.menu-item-2 {background: orange;}
+.menu-item-1 {background: orange;}
+.menu-item-2 {background: lightgreen;}
 .menu-item-3 {background: darkblue;}
 .menu-item-1, .menu-item-2,.menu-item-3 {position: relative; width: 100%;text-align: right; text-decoration: none; list-style-type: none;}
 .menu-item-1:hover, .menu-item-2:hover,.menu-item-3:hover {color: black; font-weight: bold;}
