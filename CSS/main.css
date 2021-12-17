@@ -1,13 +1,20 @@
-p.fatuk{
+p.fatuk {
     text-decoration: none;
     list-style-type: none;
     background: url("Fatuk_Weiß.png") no-repeat;
         background-color: rgba(0, 0, 0, 0);
         background-size: auto;
+    background-color: rgba(0, 0, 0, 0);
+    background-size: auto;
     background-size: 100%;
     background-color: transparent;
-    height: 2rem;
-    width: 2rem;
+    height: 3rem;
+    width: 15rem;
+    padding-bottom: 0.75rem;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    align-self: auto;
 }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
